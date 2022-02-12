@@ -2824,7 +2824,7 @@ ${setting.linkgrub3}
 ┗━━━━━━━━━━━━━━━━━━━━━━━
 ┏━━━━━━━━━━━━━━━━━━━━━━
 ┃╔═❲ *THX TO* ❳═>
-┃║⛇ *RAMDANI OFFICIAL [RECORD]*
+┃║⛇ *BANGSULSTART [RECORD]*
 ┃║⛇ *NAYLA [BASE]*
 ┃║⛇ *LORD RIYANN* 
 ┃║⛇ *LOLYKILLERS*
